@@ -1,0 +1,182 @@
+[
+    {
+        "name": "0030-1_jpg.rf.9d6568d8c612da31b2472577cea99103.jpg",
+        "predictions": [
+            [
+                "Amburana cearensis (Allem\u00e3o) A.C.Sm.",
+                "58,81,83,97,V2",
+                0.7905694150420948
+            ],
+            [
+                "Acacia mangium Willd.",
+                "58,79,81,83,97,V2",
+                0.7216878364870323
+            ],
+            [
+                "Erythrophleum suaveolens (Guill. & Perr.) Brenan",
+                "58,79,81,83,84,97,V2",
+                0.6681531047810608
+            ],
+            [
+                "Intsia bijuga (Colebr.) O. Kuntze",
+                "58,81,82,83,89,97,V2",
+                0.6681531047810608
+            ],
+            [
+                "Brachystegia laurentii (De Wild.) Louis ex J.L\u00e9onard",
+                "58,81,83,89,96,97,V2",
+                0.6681531047810608
+            ]
+        ]
+    },
+    {
+        "name": "0030-1_jpg.rf.ec7d31396dbb722c38bcdef111fad582.jpg",
+        "predictions": [
+            [
+                "Amburana cearensis (Allem\u00e3o) A.C.Sm.",
+                "58,81,83,97,V2",
+                0.7905694150420948
+            ],
+            [
+                "Acacia mangium Willd.",
+                "58,79,81,83,97,V2",
+                0.7216878364870323
+            ],
+            [
+                "Erythrophleum suaveolens (Guill. & Perr.) Brenan",
+                "58,79,81,83,84,97,V2",
+                0.6681531047810608
+            ],
+            [
+                "Intsia bijuga (Colebr.) O. Kuntze",
+                "58,81,82,83,89,97,V2",
+                0.6681531047810608
+            ],
+            [
+                "Brachystegia laurentii (De Wild.) Louis ex J.L\u00e9onard",
+                "58,81,83,89,96,97,V2",
+                0.6681531047810608
+            ]
+        ]
+    },
+    {
+        "name": "0030-6_jpg.rf.728e001481e01825292f263cef614194.jpg",
+        "predictions": [
+            [
+                "Intsia bijuga (Colebr.) O. Kuntze",
+                "58,81,82,83,89,97,V2",
+                0.801783725737273
+            ],
+            [
+                "Intsia Thouars",
+                "58,81,82,83,89,97,V2",
+                0.801783725737273
+            ],
+            [
+                "Intsia palembanica Miq.",
+                "58,81,82,83,89,97,V2",
+                0.801783725737273
+            ],
+            [
+                "Amburana cearensis (Allem\u00e3o) A.C.Sm.",
+                "58,81,83,97,V2",
+                0.7905694150420948
+            ],
+            [
+                "Bowdichia Kunth",
+                "58,81,82,83,84,89,97,V2",
+                0.7499999999999999
+            ]
+        ]
+    },
+    {
+        "name": "0030-8_jpg.rf.327a00164ed7dce2d4998fe7964b6226.jpg",
+        "predictions": [
+            [
+                "Handroanthus Mattos",
+                "56,58,81,82,83,84,89,97,V2",
+                0.7378647873726218
+            ],
+            [
+                "Intsia Thouars",
+                "58,81,82,83,89,97,V2",
+                0.7171371656006361
+            ],
+            [
+                "Intsia palembanica Miq.",
+                "58,81,82,83,89,97,V2",
+                0.7171371656006361
+            ],
+            [
+                "Intsia bijuga (Colebr.) O. Kuntze",
+                "58,81,82,83,89,97,V2",
+                0.7171371656006361
+            ],
+            [
+                "Amburana cearensis (Allem\u00e3o) A.C.Sm.",
+                "58,81,83,97,V2",
+                0.7071067811865476
+            ]
+        ]
+    },
+    {
+        "name": "0294-12_jpg.rf.ee4a0d1c3a61b00b3be7dcef7f026a9a.jpg",
+        "predictions": [
+            [
+                "Aningeria pierrei (A.Chev.) Aubr\u00e9v. & Pellegr.",
+                "10,56,77,86,88,89,96,97,V2",
+                0.7453559924999298
+            ],
+            [
+                "Juglans nigra L.",
+                "4,5,56,78,86,89,97,V2",
+                0.7302967433402215
+            ],
+            [
+                "Brachystegia cynometroides Harms",
+                "58,81,83,89,96,97,V2",
+                0.6761234037828131
+            ],
+            [
+                "Brachystegia laurentii (De Wild.) Louis ex J.L\u00e9onard",
+                "58,81,83,89,96,97,V2",
+                0.6761234037828131
+            ],
+            [
+                "Brachystegia Benth. ",
+                "58,81,83,89,96,97,V2",
+                0.6761234037828131
+            ]
+        ]
+    },
+    {
+        "name": "0550-4_png.rf.8a2c3c300657bdfe4f3458671f3b521c.jpg",
+        "predictions": [
+            [
+                "Triplochiton scleroxylon K.Schum.",
+                "56,77,86,89,98,99,V2",
+                0.6546536707079772
+            ],
+            [
+                "Ceiba pentandra (L.) Gaertn.",
+                "56,77,79,86,89,98,99,V2",
+                0.6123724356957946
+            ],
+            [
+                "Pycnanthus angolensis (Welw.) Warb.",
+                "56,75,97,V2",
+                0.5773502691896258
+            ],
+            [
+                "Aucoumea klaineana Pierre",
+                "56,75,78,97,V2",
+                0.5163977794943223
+            ],
+            [
+                "Anacardium spruceanum Benth. ex Engl.",
+                "56,79,81,96,V2",
+                0.5163977794943223
+            ]
+        ]
+    }
+]
