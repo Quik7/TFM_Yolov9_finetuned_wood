@@ -1,4 +1,3 @@
-# TFM_Yolov9_finetuned_wood
 # Tree Species Identification with YOLOv9
 
 This repository contains the code and data for training and evaluating deep learning models for the automated identification of tree species from anatomical image features. The primary model architectures used are YOLOv9 and GELAN-C.
